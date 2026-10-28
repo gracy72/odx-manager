@@ -1,0 +1,5 @@
+ODX Manager - ujednolicony starter
+Silnik   : Windows = natywny ODX (run.bat), Debian 13 = Docker (webodm/odx, opcjonalnie :gpu)
+GUI      : gui\odx_gui.py - jeden plik dla obu systemow
+Wykrywanie: raz (_srodowisko.bat -> python_path.txt, odx_path.txt)
+Wersja   : 2.0 | Data: 2026-10-23

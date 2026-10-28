@@ -1,0 +1,17 @@
+# cache wykrywania (specyficzne dla maszyny)
+_python_cache.txt
+odx_path.txt
+python_path.txt
+
+# kopie i smieci
+*.bak
+_backup/
+__pycache__/
+*.pyc
+
+# konfiguracja lokalna GUI
+config.json
+error.log
+run_tmp.bat
+run_tmp.sh
+.gui-oraz-reszta/
